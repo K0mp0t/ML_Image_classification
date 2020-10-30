@@ -1,0 +1,7 @@
+﻿matplotlib
+h5py
+numpy
+imageio
+selenium
+requests
+pillow
